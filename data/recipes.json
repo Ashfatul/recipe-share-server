@@ -1,0 +1,291 @@
+[
+    {
+      "id": 1,
+      "recipe_name": "Classic Cheeseburger",
+      "ingredients": [
+        "Ground beef",
+        "Burger buns",
+        "Cheese slices",
+        "Lettuce",
+        "Tomato",
+        "Onion",
+        "Ketchup"
+      ],
+      "cookingMethod": "1. Preheat a grill or grill pan to high heat.\n2. Divide the ground beef into 4 equal portions and shape them into patties.\n3. Season the patties with salt and pepper.\n4. Grill the patties for 3 to 4 minutes on each side, or until cooked to your desired level of doneness.\n5. Place a slice of cheese on each patty and let it melt.\n6. Toast the burger buns on the grill for about 30 seconds.\n7. Assemble the burgers with lettuce, tomato, onion, and ketchup.\n",
+      "rating": 4,
+      "recipeOfChef": 1
+    },
+    {
+      "id": 2,
+      "recipe_name": "Spaghetti and Meatballs",
+      "ingredients": [
+        "Spaghetti",
+        "Ground beef",
+        "Breadcrumbs",
+        "Parmesan cheese",
+        "Egg",
+        "Garlic",
+        "Tomato sauce"
+      ],
+      "cookingMethod": "1. Bring a large pot of salted water to a boil.\n2. Cook the spaghetti according to the package instructions.\n3. In a large bowl, mix together the ground beef, breadcrumbs, Parmesan cheese, egg, and garlic.\n4. Form the mixture into small balls.\n5. Heat a large skillet over medium-high heat and add the meatballs.\n6. Cook the meatballs for about 5 minutes, turning occasionally, until they are browned on all sides.\n7. Add the tomato sauce to the skillet and bring it to a simmer.\n8. Reduce the heat to medium-low and let the sauce and meatballs cook for about 10 minutes.\n9. Serve the meatballs and sauce over the cooked spaghetti.\n",
+      "rating": 3,
+      "recipeOfChef": 1
+    },
+    {
+      "id": 3,
+      "recipe_name": "Mac and Cheese",
+      "ingredients": [
+        "Elbow macaroni",
+        "Butter",
+        "Flour",
+        "Milk",
+        "Cheddar cheese",
+        "Breadcrumbs",
+        "Salt"
+      ],
+      "cookingMethod": "1. Cook the elbow macaroni in a large pot of salted boiling water until it is al dente.\n2. Drain the macaroni and set it aside.\n3. In a medium saucepan, melt the butter over medium heat.\n4. Add the flour and whisk to combine.\n5. Cook the flour mixture for about 1 minute, stirring constantly.\n6. Slowly add the milk to the saucepan, whisking constantly to prevent lumps.\n7. Cook the milk mixture until it thickens, stirring constantly.\n8. Add the grated cheddar cheese to the saucepan and stir until it is melted.\n9. Add the cooked macaroni to the saucepan and stir to combine.\n10. Transfer the mac and cheese to a baking dish and sprinkle the breadcrumbs on top.\n11. Broil the mac and cheese until the breadcrumbs are golden brown.\n12. Let the mac and cheese cool for a few minutes before serving.\n",
+      "rating": 3,
+      "recipeOfChef": 1
+    },
+    {
+        "id": 4,
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": [
+          "Ground beef",
+          "Burger buns",
+          "Cheese slices",
+          "Lettuce",
+          "Tomato",
+          "Onion",
+          "Ketchup"
+        ],
+        "cookingMethod": "1. Preheat a grill or grill pan to high heat.\n2. Divide the ground beef into 4 equal portions and shape them into patties.\n3. Season the patties with salt and pepper.\n4. Grill the patties for 3 to 4 minutes on each side, or until cooked to your desired level of doneness.\n5. Place a slice of cheese on each patty and let it melt.\n6. Toast the burger buns on the grill for about 30 seconds.\n7. Assemble the burgers with lettuce, tomato, onion, and ketchup.\n",
+        "rating": 4,
+        "recipeOfChef": 2
+      },
+      {
+        "id": 5,
+        "recipe_name": "Spaghetti and Meatballs",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Egg",
+          "Garlic",
+          "Tomato sauce"
+        ],
+        "cookingMethod": "1. Bring a large pot of salted water to a boil.\n2. Cook the spaghetti according to the package instructions.\n3. In a large bowl, mix together the ground beef, breadcrumbs, Parmesan cheese, egg, and garlic.\n4. Form the mixture into small balls.\n5. Heat a large skillet over medium-high heat and add the meatballs.\n6. Cook the meatballs for about 5 minutes, turning occasionally, until they are browned on all sides.\n7. Add the tomato sauce to the skillet and bring it to a simmer.\n8. Reduce the heat to medium-low and let the sauce and meatballs cook for about 10 minutes.\n9. Serve the meatballs and sauce over the cooked spaghetti.\n",
+        "rating": 3,
+        "recipeOfChef": 2
+      },
+      {
+        "id": 6,
+        "recipe_name": "Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Butter",
+          "Flour",
+          "Milk",
+          "Cheddar cheese",
+          "Breadcrumbs",
+          "Salt"
+        ],
+        "cookingMethod": "1. Cook the elbow macaroni in a large pot of salted boiling water until it is al dente.\n2. Drain the macaroni and set it aside.\n3. In a medium saucepan, melt the butter over medium heat.\n4. Add the flour and whisk to combine.\n5. Cook the flour mixture for about 1 minute, stirring constantly.\n6. Slowly add the milk to the saucepan, whisking constantly to prevent lumps.\n7. Cook the milk mixture until it thickens, stirring constantly.\n8. Add the grated cheddar cheese to the saucepan and stir until it is melted.\n9. Add the cooked macaroni to the saucepan and stir to combine.\n10. Transfer the mac and cheese to a baking dish and sprinkle the breadcrumbs on top.\n11. Broil the mac and cheese until the breadcrumbs are golden brown.\n12. Let the mac and cheese cool for a few minutes before serving.\n",
+        "rating": 3,
+        "recipeOfChef": 2
+      },
+      {
+        "id": 7,
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": [
+          "Ground beef",
+          "Burger buns",
+          "Cheese slices",
+          "Lettuce",
+          "Tomato",
+          "Onion",
+          "Ketchup"
+        ],
+        "cookingMethod": "1. Preheat a grill or grill pan to high heat.\n2. Divide the ground beef into 4 equal portions and shape them into patties.\n3. Season the patties with salt and pepper.\n4. Grill the patties for 3 to 4 minutes on each side, or until cooked to your desired level of doneness.\n5. Place a slice of cheese on each patty and let it melt.\n6. Toast the burger buns on the grill for about 30 seconds.\n7. Assemble the burgers with lettuce, tomato, onion, and ketchup.\n",
+        "rating": 4,
+        "recipeOfChef": 3
+      },
+      {
+        "id": 8,
+        "recipe_name": "Spaghetti and Meatballs",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Egg",
+          "Garlic",
+          "Tomato sauce"
+        ],
+        "cookingMethod": "1. Bring a large pot of salted water to a boil.\n2. Cook the spaghetti according to the package instructions.\n3. In a large bowl, mix together the ground beef, breadcrumbs, Parmesan cheese, egg, and garlic.\n4. Form the mixture into small balls.\n5. Heat a large skillet over medium-high heat and add the meatballs.\n6. Cook the meatballs for about 5 minutes, turning occasionally, until they are browned on all sides.\n7. Add the tomato sauce to the skillet and bring it to a simmer.\n8. Reduce the heat to medium-low and let the sauce and meatballs cook for about 10 minutes.\n9. Serve the meatballs and sauce over the cooked spaghetti.\n",
+        "rating": 3,
+        "recipeOfChef": 3
+      },
+      {
+        "id": 9,
+        "recipe_name": "Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Butter",
+          "Flour",
+          "Milk",
+          "Cheddar cheese",
+          "Breadcrumbs",
+          "Salt"
+        ],
+        "cookingMethod": "1. Cook the elbow macaroni in a large pot of salted boiling water until it is al dente.\n2. Drain the macaroni and set it aside.\n3. In a medium saucepan, melt the butter over medium heat.\n4. Add the flour and whisk to combine.\n5. Cook the flour mixture for about 1 minute, stirring constantly.\n6. Slowly add the milk to the saucepan, whisking constantly to prevent lumps.\n7. Cook the milk mixture until it thickens, stirring constantly.\n8. Add the grated cheddar cheese to the saucepan and stir until it is melted.\n9. Add the cooked macaroni to the saucepan and stir to combine.\n10. Transfer the mac and cheese to a baking dish and sprinkle the breadcrumbs on top.\n11. Broil the mac and cheese until the breadcrumbs are golden brown.\n12. Let the mac and cheese cool for a few minutes before serving.\n",
+        "rating": 3,
+        "recipeOfChef": 3
+      },
+      {
+        "id": 10,
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": [
+          "Ground beef",
+          "Burger buns",
+          "Cheese slices",
+          "Lettuce",
+          "Tomato",
+          "Onion",
+          "Ketchup"
+        ],
+        "cookingMethod": "1. Preheat a grill or grill pan to high heat.\n2. Divide the ground beef into 4 equal portions and shape them into patties.\n3. Season the patties with salt and pepper.\n4. Grill the patties for 3 to 4 minutes on each side, or until cooked to your desired level of doneness.\n5. Place a slice of cheese on each patty and let it melt.\n6. Toast the burger buns on the grill for about 30 seconds.\n7. Assemble the burgers with lettuce, tomato, onion, and ketchup.\n",
+        "rating": 4,
+        "recipeOfChef": 4
+      },
+      {
+        "id": 11,
+        "recipe_name": "Spaghetti and Meatballs",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Egg",
+          "Garlic",
+          "Tomato sauce"
+        ],
+        "cookingMethod": "1. Bring a large pot of salted water to a boil.\n2. Cook the spaghetti according to the package instructions.\n3. In a large bowl, mix together the ground beef, breadcrumbs, Parmesan cheese, egg, and garlic.\n4. Form the mixture into small balls.\n5. Heat a large skillet over medium-high heat and add the meatballs.\n6. Cook the meatballs for about 5 minutes, turning occasionally, until they are browned on all sides.\n7. Add the tomato sauce to the skillet and bring it to a simmer.\n8. Reduce the heat to medium-low and let the sauce and meatballs cook for about 10 minutes.\n9. Serve the meatballs and sauce over the cooked spaghetti.\n",
+        "rating": 3,
+        "recipeOfChef": 4
+      },
+      {
+        "id": 12,
+        "recipe_name": "Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Butter",
+          "Flour",
+          "Milk",
+          "Cheddar cheese",
+          "Breadcrumbs",
+          "Salt"
+        ],
+        "cookingMethod": "1. Cook the elbow macaroni in a large pot of salted boiling water until it is al dente.\n2. Drain the macaroni and set it aside.\n3. In a medium saucepan, melt the butter over medium heat.\n4. Add the flour and whisk to combine.\n5. Cook the flour mixture for about 1 minute, stirring constantly.\n6. Slowly add the milk to the saucepan, whisking constantly to prevent lumps.\n7. Cook the milk mixture until it thickens, stirring constantly.\n8. Add the grated cheddar cheese to the saucepan and stir until it is melted.\n9. Add the cooked macaroni to the saucepan and stir to combine.\n10. Transfer the mac and cheese to a baking dish and sprinkle the breadcrumbs on top.\n11. Broil the mac and cheese until the breadcrumbs are golden brown.\n12. Let the mac and cheese cool for a few minutes before serving.\n",
+        "rating": 3,
+        "recipeOfChef": 4
+      },
+      {
+        "id": 13,
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": [
+          "Ground beef",
+          "Burger buns",
+          "Cheese slices",
+          "Lettuce",
+          "Tomato",
+          "Onion",
+          "Ketchup"
+        ],
+        "cookingMethod": "1. Preheat a grill or grill pan to high heat.\n2. Divide the ground beef into 4 equal portions and shape them into patties.\n3. Season the patties with salt and pepper.\n4. Grill the patties for 3 to 4 minutes on each side, or until cooked to your desired level of doneness.\n5. Place a slice of cheese on each patty and let it melt.\n6. Toast the burger buns on the grill for about 30 seconds.\n7. Assemble the burgers with lettuce, tomato, onion, and ketchup.\n",
+        "rating": 4,
+        "recipeOfChef": 5
+      },
+      {
+        "id": 14,
+        "recipe_name": "Spaghetti and Meatballs",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Egg",
+          "Garlic",
+          "Tomato sauce"
+        ],
+        "cookingMethod": "1. Bring a large pot of salted water to a boil.\n2. Cook the spaghetti according to the package instructions.\n3. In a large bowl, mix together the ground beef, breadcrumbs, Parmesan cheese, egg, and garlic.\n4. Form the mixture into small balls.\n5. Heat a large skillet over medium-high heat and add the meatballs.\n6. Cook the meatballs for about 5 minutes, turning occasionally, until they are browned on all sides.\n7. Add the tomato sauce to the skillet and bring it to a simmer.\n8. Reduce the heat to medium-low and let the sauce and meatballs cook for about 10 minutes.\n9. Serve the meatballs and sauce over the cooked spaghetti.\n",
+        "rating": 3,
+        "recipeOfChef": 5
+      },
+      {
+        "id": 15,
+        "recipe_name": "Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Butter",
+          "Flour",
+          "Milk",
+          "Cheddar cheese",
+          "Breadcrumbs",
+          "Salt"
+        ],
+        "cookingMethod": "1. Cook the elbow macaroni in a large pot of salted boiling water until it is al dente.\n2. Drain the macaroni and set it aside.\n3. In a medium saucepan, melt the butter over medium heat.\n4. Add the flour and whisk to combine.\n5. Cook the flour mixture for about 1 minute, stirring constantly.\n6. Slowly add the milk to the saucepan, whisking constantly to prevent lumps.\n7. Cook the milk mixture until it thickens, stirring constantly.\n8. Add the grated cheddar cheese to the saucepan and stir until it is melted.\n9. Add the cooked macaroni to the saucepan and stir to combine.\n10. Transfer the mac and cheese to a baking dish and sprinkle the breadcrumbs on top.\n11. Broil the mac and cheese until the breadcrumbs are golden brown.\n12. Let the mac and cheese cool for a few minutes before serving.\n",
+        "rating": 3,
+        "recipeOfChef": 5
+      },
+      {
+        "id": 16,
+        "recipe_name": "Classic Cheeseburger",
+        "ingredients": [
+          "Ground beef",
+          "Burger buns",
+          "Cheese slices",
+          "Lettuce",
+          "Tomato",
+          "Onion",
+          "Ketchup"
+        ],
+        "cookingMethod": "1. Preheat a grill or grill pan to high heat.\n2. Divide the ground beef into 4 equal portions and shape them into patties.\n3. Season the patties with salt and pepper.\n4. Grill the patties for 3 to 4 minutes on each side, or until cooked to your desired level of doneness.\n5. Place a slice of cheese on each patty and let it melt.\n6. Toast the burger buns on the grill for about 30 seconds.\n7. Assemble the burgers with lettuce, tomato, onion, and ketchup.\n",
+        "rating": 4,
+        "recipeOfChef": 6
+      },
+      {
+        "id": 17,
+        "recipe_name": "Spaghetti and Meatballs",
+        "ingredients": [
+          "Spaghetti",
+          "Ground beef",
+          "Breadcrumbs",
+          "Parmesan cheese",
+          "Egg",
+          "Garlic",
+          "Tomato sauce"
+        ],
+        "cookingMethod": "1. Bring a large pot of salted water to a boil.\n2. Cook the spaghetti according to the package instructions.\n3. In a large bowl, mix together the ground beef, breadcrumbs, Parmesan cheese, egg, and garlic.\n4. Form the mixture into small balls.\n5. Heat a large skillet over medium-high heat and add the meatballs.\n6. Cook the meatballs for about 5 minutes, turning occasionally, until they are browned on all sides.\n7. Add the tomato sauce to the skillet and bring it to a simmer.\n8. Reduce the heat to medium-low and let the sauce and meatballs cook for about 10 minutes.\n9. Serve the meatballs and sauce over the cooked spaghetti.\n",
+        "rating": 3,
+        "recipeOfChef": 6
+      },
+      {
+        "id": 18,
+        "recipe_name": "Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Butter",
+          "Flour",
+          "Milk",
+          "Cheddar cheese",
+          "Breadcrumbs",
+          "Salt"
+        ],
+        "cookingMethod": "1. Cook the elbow macaroni in a large pot of salted boiling water until it is al dente.\n2. Drain the macaroni and set it aside.\n3. In a medium saucepan, melt the butter over medium heat.\n4. Add the flour and whisk to combine.\n5. Cook the flour mixture for about 1 minute, stirring constantly.\n6. Slowly add the milk to the saucepan, whisking constantly to prevent lumps.\n7. Cook the milk mixture until it thickens, stirring constantly.\n8. Add the grated cheddar cheese to the saucepan and stir until it is melted.\n9. Add the cooked macaroni to the saucepan and stir to combine.\n10. Transfer the mac and cheese to a baking dish and sprinkle the breadcrumbs on top.\n11. Broil the mac and cheese until the breadcrumbs are golden brown.\n12. Let the mac and cheese cool for a few minutes before serving.\n",
+        "rating": 3,
+        "recipeOfChef": 6
+      }
+]
+  

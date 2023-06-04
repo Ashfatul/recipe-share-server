@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "John Smith",
+    "experience": "10",
+    "recipes": "50",
+    "likes": "200",
+    "image": "https://i.ibb.co/q0CQchD/c1.jpg",
+    "bio": "Thrives under pressure and loves the fast-paced environment of a busy kitchen."
+  },
+  {
+    "id": "2",
+    "name": "Jane Doe",
+    "experience": "5",
+    "recipes": "30",
+    "likes": "100",
+    "image": "https://i.ibb.co/sR1SDSB/c2.jpg",
+    "bio": "Dedicated to preserving traditional cooking techniques and recipes."
+  },
+  {
+    "id": "3",
+    "name": "Alex Lee",
+    "experience": "7",
+    "recipes": "40",
+    "likes": "150",
+    "image": "https://i.ibb.co/4MPVjRx/c3.jpg",
+    "bio": "Passionate about creating flavorful dishes with fresh ingredients."
+  },
+  {
+    "id": "4",
+    "name": "Emily Wang",
+    "experience": "3",
+    "recipes": "'20'",
+    "likes": "50",
+    "image": "https://i.ibb.co/jyXkPDF/c4.jpg",
+    "bio": "Enjoys sharing recipes and cooking tips with fellow food lovers."
+  },
+  {
+    "id": "5",
+    "name": "David Chen",
+    "experience": "8",
+    "recipes": "45",
+    "likes": "180",
+    "image": "https://i.ibb.co/824t0BY/c5.jpg",
+    "bio": "Believes that cooking is an art form that requires creativity and attention to detail."
+  },
+  {
+    "id": "6",
+    "name": "Sarah Kim",
+    "experience": "6",
+    "recipes": "35",
+    "likes": "120",
+    "image": "https://i.ibb.co/wpLYdz8/c6.jpg",
+    "bio": "Specializes in fusion cuisine that blends the best of different culinary traditions."
+  }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "John Smith",
+        "bio": "Consectetur adipiscing elit. Integer a quam vitae neque vulputate bibendum.",
+        "likes": "200",
+        "recipes": "50",
+        "experience": "10",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "2",
+        "name": "Jane Doe",
+        "bio": "Dolor sit amet, consectetur adipiscing elit. Integer a quam vitae neque vulputate bibendum.",
+        "likes": "100",
+        "recipes": "30",
+        "experience": 5,
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "3",
+        "name": "Alex Lee",
+        "bio": "Dolor sit amet, consectetur adipiscing elit. Integer a quam vitae neque vulputate bibendum.",
+        "likes": "150",
+        "recipes": "40",
+        "experience": "7",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "4",
+        "name": "Emily Wang",
+        "bio": "Onsectetur adipiscing elit. Integer a quam vitae neque vulputate bibendum.",
+        "likes": "50",
+        "recipes": "20",
+        "experience": "3",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "5",
+        "name": "David Chen",
+        "bio": "Consectetur adipiscing elit. Integer a quam vitae neque vulputate bibendum.",
+        "likes": "180",
+        "recipes": "45",
+        "experience": "8",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "6",
+        "name": "Sarah Kim",
+        "bio": "Dolor sit amet, consectetur adipiscing elit. Integer a quam vitae neque vulputate bibendum.",
+        "likes": "120",
+        "recipes": "35",
+        "experience": "6",
+        "image": "https://via.placeholder.com/150"
+      }
+]
